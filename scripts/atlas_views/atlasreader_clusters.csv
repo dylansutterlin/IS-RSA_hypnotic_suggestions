@@ -1,0 +1,2 @@
+cluster_id,peak_x,peak_y,peak_z,cluster_mean,volume_mm,aal,desikan_killiany,harvard_oxford
+1.0,-20.0,-12.0,68.0,1.0,4344.0,45.12% Precentral_L; 27.07% Frontal_Sup_2_L; 14.36% Supp_Motor_Area_L; 8.47% Paracentral_Lobule_L,37.20% ctx-lh-precentral; 27.62% Unknown; 24.86% Left-Cerebral-White-Matter; 10.31% ctx-lh-superiorfrontal,56.91% Left_Precentral_Gyrus; 42.73% Left_Superior_Frontal_Gyrus
